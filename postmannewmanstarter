@@ -1,0 +1,2 @@
+cd C:\Users\z003ud9w\Desktop\Postman Investigation\PoC
+newman run postmanecho.postman_collection.json
